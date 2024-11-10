@@ -1,7 +1,7 @@
 # This should be replaced with your starter code!
 from flask import Flask, request
 
-from starter_code_openai import model
+from starter_code import model
 
 # Please do NOT modify this file
 # Modifying this file may cause your submission to not be graded
